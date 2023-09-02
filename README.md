@@ -6,7 +6,7 @@
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="center">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/www.linkedin.com/in/saurabh-nikam-27112812sk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/saurabh-nikam-27112812sk" height="30" width="40" /></a>
 <a href="https://instagram.com/s.a.u.r.a.b.h.niks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.a.u.r.a.b.h.niks" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@saurabhnikam2711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@saurabhnikam2711" height="30" width="40" /></a>
