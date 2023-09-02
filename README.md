@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [@github](@github)
 
-- 💬 Ask me about **J2EE,React,Java**
+- 💬 Ask me about **J2EE,Web-Developemnt**
 
 - 📫 How to reach me **saurabhnikam2711@gmail.com**
 
