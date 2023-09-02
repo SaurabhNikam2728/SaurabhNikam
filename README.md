@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurabh Nikam</h1>
-<h3 style="text-align: center; font-size: 24px; font-weight: bold; color: #4CAF50;">
-    Coding Across the Stack: Crafting Seamless Web Solutions
-</h3>
+<h3 align="center">Coding Across the Stack: Crafting Seamless Web Solutions</h3>
 
 
 - 🌱 I’m currently learning **C#,.Net Core**
