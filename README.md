@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saurabh Nikam</h1>
 <h3 align="center">Coding Across the Stack: Crafting Seamless Web Solutions</h3>
-<img src="https://i.pinimg.com/736x/6b/cd/fb/6bcdfb3f352b2922c73c0ae04074bceb.jpg" alt="coding" width="400>
+<img src="https://i.pinimg.com/736x/6b/cd/fb/6bcdfb3f352b2922c73c0ae04074bceb.jpg" alt="coding" width="300 height=100>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhnikam&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhnikam" /> </p>
 
